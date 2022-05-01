@@ -1,0 +1,13 @@
+(start)a=A*
+(start)A=(end)A
+(end)aA=T
+(start)b=B*
+(start)B=(end)B
+(end)bB=T
+(start)c=C*
+(start)C=(end)C
+(end)cC=T
+
+
+T=(return)true
+=(return)false
