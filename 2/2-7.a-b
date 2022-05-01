@@ -1,0 +1,12 @@
+ba=ab
+ca=ac
+cb=bc
+
+ab=k
+a=(return)false
+b=_k
+k_=_k
+kc=
+
+_c=(return)true
+=(return)false
